@@ -19,7 +19,7 @@
 - 🔧 **DevOps Mastery**: CI/CD, IaC, container orchestration, cloud provisioning, and infrastructure automation  
 - 💻 **Versatile Background**: Former Software Developer & QA Automation Engineer   
 - 👨‍🏫 **Team Leadership**: Mentored engineers, led DevOps adoption, improved release efficiency  
-- 🏆 **Award-Winning Contributor**: Honored with the HCL JAS Award for Outstanding Project Delivery
+- 🏆 **Award-Winning Contributor**: Honored with the HCL JAS Award for Outstanding Project Delivery (Q3 2024)
 - 🎯 **Always Improving**: Obsessed with clean automation, observability, and efficiency  
 
 ---
@@ -64,7 +64,8 @@
 
 ## 🏅 Certifications
 
-- 🧾 **AWS Certified Solutions Architect – Associate (2024)**  
+- 🧾 **Microsoft Certified Azure Fundamentals (2025)**
+- 🧾 **AWS Certified Solutions Architect – Associate (2024)**
 - 🧪 **ISTQB Certified Tester**
 
 ---
