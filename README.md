@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hello, I'm H Bobin A J
+  Hello, I'm Hepzhiba Abraham
 </h1>
 
 <div id="header" align="center">
