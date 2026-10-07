@@ -64,9 +64,10 @@
 
 ## 🏅 Certifications
 
+- 🧾 **Microsoft Certified Azure Administrator (2026)**
 - 🧾 **Microsoft Certified Azure Fundamentals (2025)**
-- 🧾 **AWS Certified Solutions Architect – Associate (2024)**
 - 🧾 **Hashicorp Certified Terraform – Associate (2025)**
+- 🧾 **AWS Certified Solutions Architect – Associate (2024)**
 - 🧪 **ISTQB Certified Tester**
 
 ---
